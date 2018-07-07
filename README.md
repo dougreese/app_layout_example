@@ -8,6 +8,13 @@ Created from templates made available by Stagehand under a BSD-style
 
 Combines stock Stagehand app with [Angular Components app layout example](https://github.com/dart-lang/angular_components_example/tree/master/example/app_layout_example/lib)
 
+Originally filed as issue: https://github.com/dart-lang/angular_components/issues/288
+
+Updated with resolution suggested in that issue: add `materialProviders` to root component.
+
+---
+
+Original issue:
 With the `MaterialListItemComponent` enabled, I see an empty drawer pane and console output:
 
 ```
